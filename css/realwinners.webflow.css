@@ -1,0 +1,457 @@
+.header-section {
+  height: 100vh;
+  background-color: #c2212e;
+}
+
+.hero {
+  width: auto;
+  height: 100vh;
+  padding-top: 20vh;
+  background-color: #d10a22;
+}
+
+.blueside {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  display: block;
+  width: auto;
+  height: 100vh;
+  margin-left: 0px;
+  padding-left: 0px;
+  background-image: url('../images/blueside_web.png');
+  background-position: 100% 50%;
+  background-size: 1024px;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+
+.hero-columns {
+  position: relative;
+  height: 100%;
+}
+
+.hero-column-left {
+  height: 100%;
+  padding-left: 0px;
+}
+
+.hero-column-right {
+  height: 100%;
+  padding-right: 0px;
+}
+
+.redside {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: inline-block;
+  overflow: visible;
+  width: auto;
+  height: 100vh;
+  margin-right: 0px;
+  background-image: url('../images/redside.png');
+  background-position: 100% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.body-section {
+  width: 100%;
+  height: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #272626;
+  font-family: 'Droid Sans', sans-serif;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.body-container {
+  width: 70%;
+  margin-right: 15%;
+  margin-left: 15%;
+  text-align: center;
+}
+
+.body-container.about-rw {
+  margin-bottom: 50px;
+}
+
+.hero-column-center {
+  position: static;
+  padding-top: 50px;
+}
+
+.body-p {
+  margin-top: 20px;
+  font-family: 'Droid Sans', sans-serif;
+  color: #fff;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.body-p.footer-p {
+  font-size: 10px;
+  line-height: 12px;
+}
+
+.body-p.hero-p {
+  margin-top: 40px;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.body-p.tagline {
+  font-family: 'Changa One', Impact, sans-serif;
+  color: #272626;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.h1 {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-family: 'Changa One', Impact, sans-serif;
+  color: #4dc92b;
+  font-size: 90px;
+  line-height: 80px;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.gif-grid {
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+
+.h2 {
+  margin-top: 40px;
+  font-family: 'Changa One', Impact, sans-serif;
+  color: #d10a22;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.link-grid {
+  max-width: 300px;
+  margin-top: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.hero-button {
+  border: 2px none #fff;
+  background-color: transparent;
+  background-image: url('../images/rw-socialmedia-icons-03.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  font-family: 'Changa One', Impact, sans-serif;
+  text-transform: uppercase;
+}
+
+.hero-button.presskit {
+  height: 100px;
+}
+
+.hero-container {
+  position: relative;
+  z-index: 999;
+  width: 400px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.footer-section {
+  padding-top: 5px;
+  padding-bottom: 10px;
+  background-color: #d10a22;
+  font-family: 'Droid Sans', sans-serif;
+  color: #fff;
+}
+
+.about-section {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #000;
+}
+
+.icon-press {
+  height: 50px;
+  background-image: none;
+  background-position: 0px 0px;
+  background-size: auto;
+  background-repeat: repeat;
+}
+
+.icon-twitter {
+  height: 50px;
+  background-image: url('../images/rw-socialmedia-icons-01.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.icon-fb {
+  height: 50px;
+  background-image: url('../images/rw-socialmedia-icons-02.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.rw-logo {
+  width: auto;
+}
+
+.amigos-logo {
+  max-width: 200px;
+  text-align: center;
+}
+
+.h3 {
+  font-size: 24px;
+}
+
+@media (max-width: 991px) {
+  .header-section {
+    height: 75vh;
+    background-color: transparent;
+  }
+  .hero {
+    height: 75vh;
+    padding-top: 10vh;
+  }
+  .blueside {
+    position: fixed;
+    left: -50px;
+    height: 75vh;
+  }
+  .redside {
+    position: fixed;
+    right: -45px;
+    width: auto;
+    height: 75vh;
+  }
+  .body-section {
+    position: relative;
+  }
+  .body-container {
+    width: 70%;
+  }
+  .body-p {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .h1 {
+    font-size: 50px;
+    line-height: 50px;
+  }
+  .rw-body {
+    background-color: #272626;
+  }
+  .link-grid {
+    margin-top: 30px;
+  }
+  .about-section {
+    position: relative;
+    padding-top: 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .header-section {
+    height: 400px;
+  }
+  .hero {
+    height: 400px;
+    padding-top: 9vh;
+  }
+  .blueside {
+    position: fixed;
+    left: -80px;
+    z-index: 0;
+    overflow: hidden;
+    height: 400px;
+  }
+  .redside {
+    position: fixed;
+    top: 0px;
+    right: -75px;
+    bottom: 0px;
+    z-index: 0;
+    overflow: hidden;
+    height: 400px;
+    margin-right: 0px;
+  }
+  .body-section {
+    position: relative;
+  }
+  .body-container {
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 12px;
+    line-height: 14px;
+  }
+  .body-p {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .body-p.hero-p {
+    margin-top: 30px;
+  }
+  .body-p.tagline {
+    font-size: 18px;
+  }
+  .h1 {
+    font-size: 40px;
+    line-height: 40px;
+  }
+  .rw-body {
+    background-color: #272626;
+  }
+  .link-grid {
+    max-width: 200px;
+  }
+  .hero-button {
+    margin-bottom: 10px;
+  }
+  .rw-gif {
+    margin-bottom: 0px;
+  }
+  .hero-container {
+    width: 250px;
+  }
+  .footer-section {
+    position: relative;
+  }
+  .about-section {
+    position: relative;
+  }
+}
+
+@media (max-width: 479px) {
+  .header-section {
+    overflow: hidden;
+    width: 100%;
+    height: 50vh;
+  }
+  .hero {
+    overflow: hidden;
+    width: 100%;
+    height: 50vh;
+    padding-top: 5vh;
+  }
+  .blueside {
+    position: fixed;
+    left: -90px;
+    top: 0px;
+    bottom: 0px;
+    display: block;
+    height: 50vh;
+  }
+  .redside {
+    position: fixed;
+    top: 0px;
+    right: -85px;
+    bottom: 0px;
+    display: block;
+    width: auto;
+    height: 50vh;
+  }
+  .body-section {
+    position: relative;
+    z-index: 2;
+  }
+  .body-container {
+    width: 80%;
+  }
+  .body-p {
+    font-size: 14px;
+    line-height: 16px;
+  }
+  .body-p.footer-p {
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: none;
+  }
+  .body-p.hero-p {
+    font-size: 12px;
+    line-height: 14px;
+  }
+  .h1 {
+    font-size: 40px;
+    line-height: 34px;
+  }
+  .rw-body {
+    overflow: hidden;
+    background-color: #272626;
+  }
+  .gif-grid {
+    display: inline;
+  }
+  .h2 {
+    font-family: 'Changa One', Impact, sans-serif;
+    font-size: 25px;
+  }
+  .link-grid {
+    max-width: 150px;
+  }
+  .rw-gif {
+    margin-bottom: 20px;
+  }
+  .hero-container {
+    overflow: hidden;
+    width: 180px;
+  }
+  .footer-section {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background-color: #c2212e;
+    color: #fff;
+  }
+  .about-section {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+  }
+  .icon-press {
+    width: auto;
+    height: auto;
+    background-image: none;
+    background-position: 0px 0px;
+    background-size: auto;
+    background-repeat: repeat;
+  }
+  .icon-twitter {
+    width: auto;
+    height: auto;
+    background-image: none;
+    background-position: 0px 0px;
+    background-size: auto;
+    background-repeat: repeat;
+  }
+  .icon-fb {
+    width: auto;
+    height: auto;
+    background-image: none;
+    background-size: auto;
+    background-repeat: repeat;
+  }
+}
