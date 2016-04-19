@@ -167,6 +167,10 @@
   height: 100px;
 }
 
+.rw-gif {
+  width: 100%;
+}
+
 .hero-container {
   position: relative;
   z-index: 999;
