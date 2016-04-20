@@ -36,12 +36,13 @@
 			<header>Real Winners</header>
 			<text>Pitched as Calvin Ball-esque, Real Winners began development in 2016. A passion project, Real Winners takes shape over nights after work and on weekends. The game puts the players in the role of robot athletes playing soccer in a robotic arena. As the players play they are given cards that allow them to radically change the game. Pinball bumpers are added to the field, golf rules are implemented, and giant balls are just a few of the rule changes. Eventually the field and rules can change so much that the final form of the game looks nothing like where it started.</text>
 		</history>
-		<history>
-			<header>Projects</header>
-			<website>http://www.realwinnersgame.com/</website>
-			<text>Real Winners!</text>
-		</history>
 	</histories>
+	
+	<features>
+		<feature>Play rules that change the very nature of the game!</feature>
+		<feature>Local multiplayer fun, for you and your 7 best friends!</feature>
+		<feature>Blasters! Baseball bats! Naked robots!</feature>
+	</features>
 		
 	<trailers>
 	<!--

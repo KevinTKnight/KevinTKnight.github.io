@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Real Winners</title>
+	<release-date>TBD</release-date>
+	<website>http://www.realwinnersgame.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PC / Mac</name>
+			<link>http://www.realwinnersgame.com/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+	<!--
+		<price>
+			<currency>USD</currency>
+			<value>$1.99</value>
+		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>€1.59</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$1.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£1.29</value>
+		</price>
+	-->
+	</prices>
+
+	<description>
+	Real Winners puts the players in the role of robot athletes playing soccer in a robotic arena. As the players play they are given cards that allow them to radically change the game. Pinball bumpers are added to the field, golf rules are implemented, and giant balls are just a few of the rule changes. Eventually the field and rules can change so much that the final form of the game looks nothing like where it started.
+	</description>
+	
+	<history>
+	Majdi pitched the original prototype as a Calvin Ball-esque game to Kevin, who is a major sucker for all things Calvin and Hobbes. After a breif 2-month prototype, Real Winners began actual development in 2016. A passion project, Real Winners takes shape over nights after work and on weekends. 
+	</history>
+
+	
+	<features>
+		<feature>Play rules that change the very nature of the game!</feature>
+		<feature>Local multiplayer fun, for you and your 7 best friends!</feature>
+		<feature>Blasters! Baseball bats! Naked robots!</feature>
+	</features>
+		
+	
+	<trailers>
+	<!--
+		<trailer>
+			<name>Trailer</name>
+			<youtube>7jQbITg0MSk</youtube>
+			<vimeo>23571681</vimeo>
+		</trailer>
+		<trailer>
+			<name>Gameplay Video</name>
+			<youtube>7jQbITg0MSk</youtube>
+			<vimeo>23571681</vimeo>
+		</trailer>
+	-->
+	</trailers>
+	
+	<awards>
+	<!--
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	-->
+	</awards>
+	
+	<quotes>
+	<!--
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://</link>
+		</quote>
+	-->
+	</quotes>
+	
+	<additionals>
+	<!--
+		<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>http://vlambeer.com/bloglink</link>
+		</additional>
+	-->
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Majdi Badri</person>
+			<role>Designer, Writer, Producer</role>
+		</credit>
+		<credit>
+			<person>Jordan Cuffie</person>
+			<!--<website>www.olivertwist.com</website>-->
+			<role>Artist, Designer</role>
+		</credit>
+		<credit>
+			<person>Lena Masek</person>
+			<website>http://lenamasek.website/</website>
+			<role>Web Developer</role>
+		</credit>
+		<credit>
+			<person>Kevin Knight</person>
+			<website>https://kevin-t-knight.itch.io/</website>
+			<role>Programmer, Designer</role>
+		</credit>
+	</credits>
+</game>
