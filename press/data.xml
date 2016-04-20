@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Amigos</title>
+	<founding-date>January 10, 2016</founding-date>
+	<website>http://www.realwinnersgame.com/</website>
+	<based-in>Chicago, Illinois</based-in>
+	
+	<press-contact>realwinnersgame@gmail.com</press-contact>
+	<phone></phone>
+	<address>
+	</address>
+
+	<socials>
+		<social>
+			<name>Real Twitter</name>
+			<link>twitter.com/RealWinnersGame</link>
+		</social>
+		<social>
+			<name>Real Facebook</name>
+			<link>facebook.com/realwinnersgame</link>
+		</social>
+	</socials>
+
+	<description>	
+		Amigos is an independent game studio dedicated to making silly things. Kevin Knight, Jordan Cuffie and Majdi Badri have too many ideas too often and rather than just let those ideas wilt away, they have decided to put them on screen. 
+	</description>
+		
+	<histories>
+		<history>
+			<header>Early history</header>
+			<text>Amigos was founded in early 2016 by Kevin Knight, Jordan Cuffie and Majdi Badri. Kevin and Majdi had gone to DePaul University in Chicago together and were in the game dev program. Due to class schedules, the two never worked on a project together despite always wanting to. Post graduation Kevin interned and was quickly scooped up by Iron Galaxy. Majdi worked on Indie darling Octodad with Young Horses and then left to join mobile company Synapse Games where he met Jordan. Jordan graduated from the Art Institute of Chicago and works at Synapse as Lead Artist. Synapse Games moved locations in late 2014 and wound up coincidentally on the same block as Iron Galaxy. The three decided to make a game because such close proximity meant meeting up was easy.</text>
+		</history>
+		<history>
+			<header>Real Winners</header>
+			<text>Pitched as Calvin Ball-esque, Real Winners began development in 2016. A passion project, Real Winners takes shape over nights after work and on weekends. The game puts the players in the role of robot athletes playing soccer in a robotic arena. As the players play they are given cards that allow them to radically change the game. Pinball bumpers are added to the field, golf rules are implemented, and giant balls are just a few of the rule changes. Eventually the field and rules can change so much that the final form of the game looks nothing like where it started.</text>
+		</history>
+		<history>
+			<header>Projects</header>
+			<website>http://www.realwinnersgame.com/</website>
+			<text>Real Winners!</text>
+		</history>
+	</histories>
+		
+	<trailers>
+	<!--
+		<trailer>
+			<name>This video is nice</name>
+			<youtube>7jQbITg0MSk</youtube>
+		</trailer>
+		<trailer>
+			<name>This one too</name>
+			<youtube>0CevOaYrYDA</youtube>
+			<vimeo>12536488</vimeo>
+		</trailer>
+	-->
+	</trailers>
+	
+	<awards>
+	<!--
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	-->
+	</awards>
+	
+	<quotes>
+	<!--
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://art.tumblr.com/</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://thispage.net/angrytube</link>
+		</quote>
+	-->
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+	<!--
+		<additional>
+			<title></title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	-->
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Majdi Badri</person>
+			<role>Designer, Writer, Producer</role>
+		</credit>
+		<credit>
+			<person>Jordan Cuffie</person>
+			<!--<website>www.olivertwist.com</website>-->
+			<role>Artist, Designer</role>
+		</credit>
+		<credit>
+			<person>Lena Masek</person>
+			<website>http://lenamasek.website/</website>
+			<role>Web Developer</role>
+		</credit>
+		<credit>
+			<person>Kevin Knight</person>
+			<website>https://kevin-t-knight.itch.io/</website>
+			<role>Programmer, Designer</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>realwinnersgame@gmail.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/RealWinnersGame</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/RealWinnersGame</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>RealWinnersGame.com</link>
+		</contact>
+	</contacts>
+</game>
