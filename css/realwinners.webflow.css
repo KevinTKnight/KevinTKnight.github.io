@@ -20,8 +20,8 @@
   height: 100vh;
   margin-left: 0px;
   padding-left: 0px;
-  background-image: url('../images/blueside_web.png');
-  background-position: 100% 50%;
+/*  background-image: url('../images/blueside_web.png');
+*/  background-position: 100% 50%;
   background-size: 1024px;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -52,8 +52,8 @@
   width: auto;
   height: 100vh;
   margin-right: 0px;
-  background-image: url('../images/redside.png');
-  background-position: 100% 50%;
+/*  background-image: url('../images/redside.png');
+*/  background-position: 100% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
