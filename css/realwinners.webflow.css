@@ -230,7 +230,7 @@
   font-size: 24px;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1050px) {
   .header-section {
     height: 75vh;
     background-color: transparent;
