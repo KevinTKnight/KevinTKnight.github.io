@@ -141,14 +141,14 @@
 			<role>Artist, Designer</role>
 		</credit>
 		<credit>
-			<person>Lena Masek</person>
-			<website>http://lenamasek.website/</website>
-			<role>Web Developer</role>
-		</credit>
-		<credit>
 			<person>Kevin Knight</person>
 			<website>https://kevin-t-knight.itch.io/</website>
 			<role>Programmer, Designer</role>
+		</credit>
+		<credit>
+			<person>Lena Masek</person>
+			<website>http://lenamasek.website/</website>
+			<role>Web Developer</role>
 		</credit>
 	</credits>
 </game>
