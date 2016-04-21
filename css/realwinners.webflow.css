@@ -21,6 +21,7 @@ user-select: none;
 -webkit-user-select: none;
 -ms-user-select: none;
   }
+  
 .hero {
   width: auto;
   height: 100vh;
@@ -421,8 +422,8 @@ user-select: none;
     line-height: 34px;
   }
   .rw-body {
-    overflow: hidden;
-    background-color: #272626;
+/*    overflow: hidden;
+*/    background-color: #272626;
   }
   .gif-grid {
     display: inline;
