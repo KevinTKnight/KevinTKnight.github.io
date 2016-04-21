@@ -377,6 +377,14 @@
     width: auto;
     height: 50vh;
   }
+  .redside, .blueside {
+    user-drag: none; 
+user-select: none;
+-moz-user-select: none;
+-webkit-user-drag: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+  }
   .body-section {
     position: relative;
     z-index: 2;
@@ -386,7 +394,7 @@
   }
   .body-p {
     font-size: 14px;
-    line-height: 16px;
+    line-height: 20px;
   }
   .body-p.footer-p {
     font-size: 10px;
