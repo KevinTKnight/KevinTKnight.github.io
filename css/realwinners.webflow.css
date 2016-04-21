@@ -3,6 +3,16 @@
   background-color: #c2212e;
 }
 
+::-moz-selection { /* Code for Firefox */
+    color: #c2212e;
+    background: #333;
+}
+
+::selection {
+  color: #c2212e;
+    background: #333;
+}
+
 .hero {
   width: auto;
   height: 100vh;
@@ -377,7 +387,7 @@
     width: auto;
     height: 50vh;
   }
-  .redside, .blueside {
+  .redside, .blueside, .icon-press, .icon-twitter, .icon-fb {
     user-drag: none; 
 user-select: none;
 -moz-user-select: none;
